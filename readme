@@ -1,0 +1,95 @@
+day 1- installation
+
+day 2- html , head , body <!doctype html>= doctype declaration
+
+day 3- &nbsp; for 2 spacing or whitespacing 
+        <br> tag breaking line 
+         
+         1) empty tag- no need to close(self closing)
+            e.g <br> tag  = we also write <br/> ( jaha suru hua vahi close)
+            
+          2) container tag - need to closing 
+              e.g  body, html nd all tags
+              
+          # QUICKLY WRITE CODE
+           ! And enter 
+           
+          #ASSIGNMENT -1
+          creat webpage nd output 
+       
+       
+day 4-  Heading tagss- <h1> means big tag
+         
+                       <h2> to <h6> decrease 
+                       only 6 tags are available
+                       
+        Bold tag  -<b>  fdvgb </b>
+        
+        underline tag  - <u> sgdtghsd </u>
+        
+        italic tag - <i> hdtsgdh </i>
+        
+        delete tag - <del> hthag ---- line uspe </del>
+                   
+                   e.g. <del> 25/- </del> 22 <br/>
+                   
+                 we can use all tag in on senetence
+                   
+                    e.g. <b> <i> <del> fdtgdh </del> </i> </b>
+                    
+        HOrizontal tag - <hr> hdh </hr>
+                          <hr> 
+                          <hr>    simply 3 line ajayegi
+                          <hr>
+        
+        span tag - <span> gdbus </span>    text pe koi effect dena by using css 
+        
+         superscript tag - <sup> 10th  </sup>  for th ko upar leke jane ke liye
+                           e.g. - 10<sup> th </sup> 
+         
+         subscript    - <sub> h2o </sub>   2 ko niche lane ke liye
+                        e.g.   h<sub> 2</sub> o
+                 
+day 5-  imange tag - <img  src =" url "/>
+
+          attribute se use karte hai img tag 
+          attribute -attribute helps to describe tag or provide special information
+          
+          attributes always in key - value pair 
+          e.g = age - 12 like that
+          
+          alternative tag /alt tag- if url wrong hai or kuch reason se img show nahi hoti toh alt tag se hum comment de sakte hai ki imag konsi thi
+          
+day 6 - anchor tag - for using href connect pages with each other
+                     use for navigation - 1 page se 2sre page pr jane ke liye 
+                     e.g- <a href="....link "> about linkk</a>
+
+                     in anchor tag we can add tele no and mail also by using
+                     <a href="tel:6576878"></a>
+                     <a href="maito:gmailid"></a>
+
+        target= "_blanck" attribute = for using blank tab
+                 use after link ,then click the link ,link will be open automatically in new tab
+
+day 7 -  paragraph tag - showing textual content 
+            e.g - <p> uydudu uhduid </p>
+         
+         divisin tag - we can use for grouping 
+            e.g - <div> uyusdhuxidy  </div>
+
+
+            IMAGE WEBSITE = FLATICON  AND FREEPICK 
+
+
+day 8 -   1. page navigation
+           2. orderd list
+           3. unordered list
+
+day 9- audio and vidio tag
+
+day 10 - id 
+         type - text, email , password , age ...
+         placeholder 
+         value
+         required 
+         disabled
